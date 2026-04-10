@@ -69,13 +69,13 @@ In case of a tie, other random generated scenarios by the referee will be used t
 == Scenarios
 
 === Scenario 1
-image::./scenarios/scenario1.svg[Interactive,700,opts=interactive]
+image::./images/scenarios_kick/scenario1.svg[Interactive,700,opts=interactive]
 
 === Scenario 2
-image::./scenarios/scenario2.svg[Interactive,700,opts=interactive]
+image::./images/scenarios_kick/scenario2.svg[Interactive,700,opts=interactive]
 
 === Scenario 3
-image::./scenarios/scenario3.svg[Interactive,700,opts=interactive]
+image::./images/scenarios_kick/scenario3.svg[Interactive,700,opts=interactive]
 
 === Scenario 4
-image::./scenarios/scenario4.svg[Interactive,700,opts=interactive]
+image::./images/scenarios_kick/scenario4.svg[Interactive,700,opts=interactive]
